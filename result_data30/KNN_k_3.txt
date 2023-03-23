@@ -1,0 +1,73 @@
+K = 3
+Real coordinate of user is: x = 1.40(m); y = 2.60(m)
+Coordinate of user predicted is: x = 1.67(m); y = 2.60(m)
+Error of positioning: 0.267(m)
+K = 3
+Real coordinate of user is: x = 3.80(m); y = 1.80(m)
+Coordinate of user predicted is: x = 2.73(m); y = 1.53(m)
+Error of positioning: 1.099(m)
+K = 3
+Real coordinate of user is: x = 3.80(m); y = 3.40(m)
+Coordinate of user predicted is: x = 4.87(m); y = 2.60(m)
+Error of positioning: 1.333(m)
+K = 3
+Real coordinate of user is: x = 3.00(m); y = 5.80(m)
+Coordinate of user predicted is: x = 4.33(m); y = 5.80(m)
+Error of positioning: 1.333(m)
+K = 3
+Real coordinate of user is: x = 1.40(m); y = 4.20(m)
+Coordinate of user predicted is: x = 1.13(m); y = 3.13(m)
+Error of positioning: 1.099(m)
+K = 3
+Real coordinate of user is: x = 1.40(m); y = 7.40(m)
+Coordinate of user predicted is: x = 2.20(m); y = 6.87(m)
+Error of positioning: 0.961(m)
+K = 3
+Real coordinate of user is: x = 3.00(m); y = 7.40(m)
+Coordinate of user predicted is: x = 4.33(m); y = 6.33(m)
+Error of positioning: 1.707(m)
+K = 3
+Real coordinate of user is: x = 5.40(m); y = 7.40(m)
+Coordinate of user predicted is: x = 3.80(m); y = 6.33(m)
+Error of positioning: 1.923(m)
+K = 3
+Real coordinate of user is: x = 7.00(m); y = 6.60(m)
+Coordinate of user predicted is: x = 6.47(m); y = 6.33(m)
+Error of positioning: 0.596(m)
+K = 3
+Real coordinate of user is: x = 6.20(m); y = 5.80(m)
+Coordinate of user predicted is: x = 7.53(m); y = 3.67(m)
+Error of positioning: 2.516(m)
+K = 3
+Real coordinate of user is: x = 4.60(m); y = 5.00(m)
+Coordinate of user predicted is: x = 4.33(m); y = 6.33(m)
+Error of positioning: 1.360(m)
+K = 3
+Real coordinate of user is: x = 5.40(m); y = 3.40(m)
+Coordinate of user predicted is: x = 5.40(m); y = 2.60(m)
+Error of positioning: 0.800(m)
+K = 3
+Real coordinate of user is: x = 6.20(m); y = 1.80(m)
+Coordinate of user predicted is: x = 5.40(m); y = 1.53(m)
+Error of positioning: 0.843(m)
+K = 3
+Real coordinate of user is: x = 7.80(m); y = 1.00(m)
+Coordinate of user predicted is: x = 7.53(m); y = 1.53(m)
+Error of positioning: 0.596(m)
+K = 3
+Real coordinate of user is: x = 8.60(m); y = 1.80(m)
+Coordinate of user predicted is: x = 7.53(m); y = 1.53(m)
+Error of positioning: 1.099(m)
+K = 3
+Real coordinate of user is: x = 7.80(m); y = 3.40(m)
+Coordinate of user predicted is: x = 7.00(m); y = 2.60(m)
+Error of positioning: 1.131(m)
+K = 3
+Real coordinate of user is: x = 8.60(m); y = 5.00(m)
+Coordinate of user predicted is: x = 7.53(m); y = 5.27(m)
+Error of positioning: 1.099(m)
+K = 3
+Real coordinate of user is: x = 8.60(m); y = 7.40(m)
+Coordinate of user predicted is: x = 7.53(m); y = 6.87(m)
+Error of positioning: 1.193(m)
+Average Error of positioning: 1.164(m)
